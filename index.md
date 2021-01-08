@@ -1,7 +1,7 @@
 > Only in America could you find a way to make a healthy buck,  
 > and still keep your attitude on self-destruct.  
 >           - ~~Daniel Dumile~~ MF DOOM  
-### About Me
+# About Me
 ## Summary
 ![My Headshot](/pictures/headshot.png)  
 **Name:** Chad Makanaokeakua Wall  
@@ -11,17 +11,17 @@ Just some random computer nerd who plays way too many games. Currently studying 
 * CSE101
 * CSE 110
 * CSE 151A
-* PHIL 28
-## Favorites
+* PHIL 28  
+## Favorites  
 **Game:** Fallout: New Vegas  
 **Movie:** Spirited Away  
 **Book:** Catch-22  
 ![Personal Copy](/pictures/fav_book.jpg)  
 (Personal copy I had since I was 13)  
 **Show:** Venture Bros.  
-**Band:** Gorillaz 
-**Programming Language:** C#
-**Classes in UCSD (So far):**
+**Band:** Gorillaz  
+**Programming Language:** C#  
+**Classes in UCSD (So far):**  
 1. CSE 100
    - Professor Cao, Yingjun
 2. CSE 130
@@ -30,12 +30,12 @@ Just some random computer nerd who plays way too many games. Currently studying 
    - Professor Ord, Richard
 
 
-## Links
+## Links  
 [Piazza](https://piazza.com/careers/dashboard#/my_profile/jml95fggn794yz)  
 [LinkedIn](https://www.linkedin.com/in/chad-wall-072131194/)  
-Mysterious Song of the Week: https://www.youtube.com/watch?v=Yw6u6YkTgQ4
-[README.md](/README.md)
-### Cool Code  
+Mysterious Song of the Week: https://www.youtube.com/watch?v=Yw6u6YkTgQ4  
+[README.md](/README.md)  
+# Cool Code  
 Amazing Inverse Square Root Algorithm from Quake III:  
 ```
 float Q_rsqrt( float number )
@@ -55,7 +55,7 @@ float Q_rsqrt( float number )
 ```  
 [(Source & Explanation)](https://www.youtube.com/watch?v=p8u_k2LIZyo)  
 
-### TODO List for page
+# TODO List for page  
 - [x] Pictures
 - [x] Links
 - [x] Headings
