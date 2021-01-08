@@ -11,12 +11,14 @@ Just some random computer nerd who plays way too many games. Currently studying 
 * CSE101
 * CSE 110
 * CSE 151A
-* PHIL 28  
+* PHIL 28
+<a/>
+
 ## Favorites  
 **Game:** Fallout: New Vegas  
 **Movie:** Spirited Away  
 **Book:** Catch-22  
-![Personal Copy](/pictures/fav_book.jpg)  
+[Personal Copy](/pictures/fav_book.jpg)  
 (Personal copy I had since I was 13)  
 **Show:** Venture Bros.  
 **Band:** Gorillaz  
