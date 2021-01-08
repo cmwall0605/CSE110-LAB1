@@ -43,7 +43,7 @@ Just some random computer nerd who plays way too many games. Currently studying 
 [Piazza](https://piazza.com/careers/dashboard#/my_profile/jml95fggn794yz)  
 [LinkedIn](https://www.linkedin.com/in/chad-wall-072131194/)  
 [README.md](/README.md)  
-[Mysterious Song of the Week](www.youtube.com/watch?v=Yw6u6YkTgQ4)  
+[Mysterious Song of the Week](https://www.youtube.com/watch?v=Yw6u6YkTgQ4)  
 # Cool Code
 Amazing Inverse Square Root Algorithm from Quake III:  
 ```
@@ -72,7 +72,7 @@ float Q_rsqrt( float number )
 - [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
-- [ ] Section links
+- [x] Section links
 - [x] Relative links
 - [x] Lists
 - [x] Task lists
