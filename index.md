@@ -33,7 +33,7 @@ Just some random computer nerd who plays way too many games. Currently studying 
 ## Links  
 [Piazza](https://piazza.com/careers/dashboard#/my_profile/jml95fggn794yz)  
 [LinkedIn](https://www.linkedin.com/in/chad-wall-072131194/)  
-Mysterious Song of the Week: https://www.youtube.com/watch?v=Yw6u6YkTgQ4  
+Mysterious Song of the Week: https://youtube.com/watch?v=Yw6u6YkTgQ4  
 [README.md](/README.md)  
 # Cool Code  
 Amazing Inverse Square Root Algorithm from Quake III:  
