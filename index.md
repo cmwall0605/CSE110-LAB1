@@ -1,6 +1,7 @@
-> Only in America could you find a way to make a healthy buck,  
-> and still keep your attitude on self-destruct.  
->           - ~~Daniel Dumile~~ MF DOOM  
+> Only in America could you find a way to make a healthy buck,   
+and still keep your attitude on self-destruct.  
+~~Daniel Dumile~~ MF DOOM  
+
 # About Me  
 ## Summary  
 ![My Headshot](/pictures/headshot.png)  
