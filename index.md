@@ -2,8 +2,13 @@
 \- Anton Ego
 
 # Table of contents
-[About Me](/pictures/headshot.png)  
-
+- [Table of contents](#table-of-contents)
+- [About Me](#about-me)
+  - [Summary](#summary)
+  - [Favorites](#favorites)
+  - [Links](#links)
+- [Cool Code](#cool-code)
+- [TODO](#todo)
 # About Me  
 ## Summary  
 ![My Headshot](/pictures/headshot.png)  
