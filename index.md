@@ -1,8 +1,8 @@
 > Only in America could you find a way to make a healthy buck,  
 > and still keep your attitude on self-destruct.  
 >           - ~~Daniel Dumile~~ MF DOOM  
-# About Me
-## Summary
+# About Me  
+## Summary  
 ![My Headshot](/pictures/headshot.png)  
 **Name:** Chad Makanaokeakua Wall  
 **Age:** 20  
@@ -11,14 +11,13 @@ Just some random computer nerd who plays way too many games. Currently studying 
 * CSE101
 * CSE 110
 * CSE 151A
-* PHIL 28
-<a/>
+* PHIL 28  
 
 ## Favorites  
 **Game:** Fallout: New Vegas  
 **Movie:** Spirited Away  
 **Book:** Catch-22  
-[Personal Copy](/pictures/fav_book.jpg)  
+![Personal Copy](/pictures/fav_book.jpg)  
 (Personal copy I had since I was 13)  
 **Show:** Venture Bros.  
 **Band:** Gorillaz  
@@ -29,13 +28,12 @@ Just some random computer nerd who plays way too many games. Currently studying 
 2. CSE 130
    - Professor Polikarpova, Nadezhda
 3. CSE 30
-   - Professor Ord, Richard
-
+   - Professor Ord, Richard  
 
 ## Links  
 [Piazza](https://piazza.com/careers/dashboard#/my_profile/jml95fggn794yz)  
 [LinkedIn](https://www.linkedin.com/in/chad-wall-072131194/)  
-Mysterious Song of the Week: https://youtube.com/watch?v=Yw6u6YkTgQ4  
+Mysterious Song of the Week: https://www.youtube.com/watch?v=Yw6u6YkTgQ4  
 [README.md](/README.md)  
 # Cool Code  
 Amazing Inverse Square Root Algorithm from Quake III:  
