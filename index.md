@@ -1,6 +1,8 @@
-> Only in America could you find a way to make a healthy buck,   
-and still keep your attitude on self-destruct.  
-~~Daniel Dumile~~ MF DOOM  
+>  Not everyone can become a great artist, but a great artist can come from anywhere.  
+\- Anton Ego
+
+# Table of contents
+[About Me](/pictures/headshot.png)  
 
 # About Me  
 ## Summary  
@@ -34,7 +36,7 @@ Just some random computer nerd who plays way too many games. Currently studying 
 ## Links  
 [Piazza](https://piazza.com/careers/dashboard#/my_profile/jml95fggn794yz)  
 [LinkedIn](https://www.linkedin.com/in/chad-wall-072131194/)  
-Mysterious Song of the Week: https://www.youtube.com/watch?v=Yw6u6YkTgQ4  
+Mysterious Song of the Week: www.youtube.com/watch?v=Yw6u6YkTgQ4  
 [README.md](/README.md)  
 # Cool Code  
 Amazing Inverse Square Root Algorithm from Quake III:  
@@ -49,14 +51,15 @@ float Q_rsqrt( float number )
     y  = number;
     i  = * (long * ) &y;
     i  = 0x5f3759df - ( i >> 1 );
-    y  = y * * (threehalfs - ( x2 * y * y ) );
+    y  = * ( float * ) &i;
+    y  = y * ( threehalfs - ( x2 * y * y ) );
 
     return y;
 }
 ```  
 [(Source & Explanation)](https://www.youtube.com/watch?v=p8u_k2LIZyo)  
 
-# TODO List for page  
+# TODO
 - [x] Pictures
 - [x] Links
 - [x] Headings
@@ -67,3 +70,4 @@ float Q_rsqrt( float number )
 - [x] Relative links
 - [x] Lists
 - [x] Task lists
+- [ ] ~~Take oveer the world~~
