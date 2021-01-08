@@ -9,8 +9,9 @@
   - [Links](#links)
 - [Cool Code](#cool-code)
 - [TODO](#todo)
-# About Me  
-## Summary  
+
+# About Me
+## Summary
 ![My Headshot](/pictures/headshot.png)  
 **Name:** Chad Makanaokeakua Wall  
 **Age:** 20  
@@ -21,7 +22,7 @@ Just some random computer nerd who plays way too many games. Currently studying 
 * CSE 151A
 * PHIL 28  
 
-## Favorites  
+## Favorites
 **Game:** Fallout: New Vegas  
 **Movie:** Spirited Away  
 **Book:** Catch-22  
@@ -38,12 +39,12 @@ Just some random computer nerd who plays way too many games. Currently studying 
 3. CSE 30
    - Professor Ord, Richard  
 
-## Links  
+## Links
 [Piazza](https://piazza.com/careers/dashboard#/my_profile/jml95fggn794yz)  
 [LinkedIn](https://www.linkedin.com/in/chad-wall-072131194/)  
-Mysterious Song of the Week: www.youtube.com/watch?v=Yw6u6YkTgQ4  
 [README.md](/README.md)  
-# Cool Code  
+[Mysterious Song of the Week](www.youtube.com/watch?v=Yw6u6YkTgQ4)  
+# Cool Code
 Amazing Inverse Square Root Algorithm from Quake III:  
 ```
 float Q_rsqrt( float number )
@@ -75,4 +76,4 @@ float Q_rsqrt( float number )
 - [x] Relative links
 - [x] Lists
 - [x] Task lists
-- [ ] ~~Take oveer the world~~
+- [ ] ~~Take over the world~~  
